@@ -1,0 +1,66 @@
+.navbar{
+    text-align:-webkit-center;
+    padding-right:450px;
+}
+h4{
+     margin-left:-290px
+   
+}
+h1{
+    
+     margin-left:-290px
+}
+h3{
+     margin-left:-290px
+}
+.message form{
+     margin-left:-290px
+}
+#education{
+    align-items:center;
+    
+}
+.boxs{
+    height: 150px;
+    width: 250px;
+    margin-left: 1px;
+}
+.boxs h2{
+    color: black;
+    font-size: .8rem;
+    margin-bottom: -180px;
+    text-align: center;
+    height: 200px;
+    width: 300px;
+}
+#education h2{
+    text-align:justify;
+}
+.boxs p{
+font-size: .8rem;
+
+}
+#about img{
+    height: auto;
+    width:0px;
+    
+}
+.aboutme h2{
+   text-align:center;
+}
+.aboutme h5{
+     text-align:center;
+}
+.aboutme p{
+    padding-left:10px;}
+button{
+    margin-left:200px
+}
+#service h1{
+    text-align:center;
+    margin-left:20px;
+}
+.contacts{
+    padding-left:30px
+    
+}
